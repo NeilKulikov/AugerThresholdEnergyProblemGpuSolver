@@ -8,5 +8,5 @@ Now it works but deprecated because of lack of stability.
 P.S.: CVMCompiler is pretty awful - it crashes 1 time 
 out of 3.
 
-P.P.S.: Anyone can find my implementation of cubic splines 
+P.P.S.: Someone can find my implementation of cubic splines 
 and conjugate gradient useful. 
